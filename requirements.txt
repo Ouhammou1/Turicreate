@@ -1,3 +1,4 @@
+pip>=21.0
 turicreate==6.4
 jupyter
 
