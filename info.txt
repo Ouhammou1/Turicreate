@@ -1,0 +1,3 @@
+Reformat the USB (⚠️ deletes everything)
+//cmd  on Mac
+-->  diskutil eraseDisk ExFAT BRAHIM MBRFormat /dev/disk3
